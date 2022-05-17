@@ -19,8 +19,8 @@ A Holistic End-To-End Model to Calculate the Carbon Footprint of Streaming Media
  
 ### APA Example:
 
-[Makonin et al., 2022] Makonin, S., Marks, L. U., Rodriguez-Silva, A., ElMallah, R., and Przedpelski, R. (2022). Calculate the carbon footprint of streaming media: Beyond the myth of efficiency. In **Proceedings of LIMITS 2022**, virtual. s.n.
+[Makonin et al., 2022] Makonin, S., Marks, L. U., Rodriguez-Silva, A., ElMallah, R., and Przedpelski, R. (2022). Calculate the carbon footprint of streaming media: Beyond the myth of efficiency. In *Proceedings of LIMITS 2022*, virtual. s.n.
  
 ### IEEE Example:
 
-S. Makonin, L. U. Marks, A. Rodriguez-Silva, R. ElMallah, and R. Przedpelski, “Calculate the carbon footprint of streaming media: Beyond the myth of efficiency,” in **Proceedings of LIMITS 2022**, (virtual), s.n., June 2022.
+S. Makonin, L. U. Marks, A. Rodriguez-Silva, R. ElMallah, and R. Przedpelski, “Calculate the carbon footprint of streaming media: Beyond the myth of efficiency,” in *Proceedings of LIMITS 2022*, (virtual), s.n., June 2022.
