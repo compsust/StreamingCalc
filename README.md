@@ -15,6 +15,8 @@ A Holistic End-To-End Model to Calculate the Carbon Footprint of Streaming Media
 
 ## You Must Cite
 
+This work was presented at the LIMITS 2022 workshop: https://computingwithinlimits.org/2022/
+
  You **must cite** the LIMIT 2022 paper found in this repo if you use this calculator. I have included a *.bib* file for LaTeX authors. Here is an APA and IEEE example of how to cite this work:
  
 ### APA Example:
